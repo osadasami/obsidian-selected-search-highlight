@@ -1,4 +1,3 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+.osadasami-search-result-active {
+  outline: 1px solid var(--text-accent);
 }
